@@ -1,0 +1,3 @@
+git branch clean_up 	-- this is create a new branch named clean_up
+git branch 		-- list all branches
+git checkout cleanup 	-- will switch to cleanup branch
