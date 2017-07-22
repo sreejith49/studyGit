@@ -1,0 +1,8 @@
+This file is placed inside a folder.
+
+now will execute below commands and check whether all the updates are reflected in github.
+
+git pull
+git add -A
+git push
+git commit -a
