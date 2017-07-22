@@ -1,1 +1,8 @@
 This file has been added to check on how git works while a new file is in place.
+
+commands executed are given below:
+
+git pull
+git add -A
+git commit -a
+git push
