@@ -1,0 +1,3 @@
+git command to checkout all missing files and folders
+
+git command .
