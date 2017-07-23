@@ -1,3 +1,6 @@
 git branch clean_up 	-- this is create a new branch named clean_up
 git branch 		-- list all branches
-git checkout cleanup 	-- will switch to cleanup branch
+git checkout clean_up 	-- will switch to cleanup branch
+
+git branch -d clean_up	-- this will remove the branch, but wont be successful if conflicts found
+git branch -D clean_up	-- this will forcefully remove the branch even conflicts are found
