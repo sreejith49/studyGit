@@ -1,0 +1,8 @@
+[myrepo]
+baseurl=file:///run/media/root/RHEL-7.4\ Server.x86_64
+gpgcheck=0
+
+[myurl]
+baseurl=file:///root/Desktop/rhel7_5_rpm_extras
+gpgcheck=0
+
