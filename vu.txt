@@ -17,6 +17,7 @@ Our goal is to make learning Git and GitHub fun, practical, and accessible for e
 test by addingnew lines
 testing using the script should be accepted as faster way
 newly created tests should be prioritized for automation.
-existsing tests should be analysed for changes and updates on the test data ensures failure during test execution
+existing tests should be analysed for changes and updates on the test data ensures failure during test execution
 for any test failures, manual testing is mandatory. later analyse the root cause for the failure and fix it for further successful execution
 test cross push
+cross push wont work
