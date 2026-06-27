@@ -21,3 +21,5 @@ existing tests should be analysed for changes and updates on the test data ensur
 for any test failures, manual testing is mandatory. later analyse the root cause for the failure and fix it for further successful execution
 test cross push
 cross push wont work
+
+testing from vscode
