@@ -15,3 +15,4 @@ Purpose
 Our goal is to make learning Git and GitHub fun, practical, and accessible for everyone. Enjoy experimenting!
 
 test by addingnew lines
+testing using the script should be accepted as faster way
